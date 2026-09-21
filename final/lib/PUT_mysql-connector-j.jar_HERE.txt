@@ -1,0 +1,7 @@
+Download MySQL Connector/J and place the jar in this folder as:
+    mysql-connector-j.jar
+
+Download page: https://dev.mysql.com/downloads/connector/j/
+(Select "Platform Independent" -> download the .zip or .tar.gz -> the jar
+file inside, e.g. mysql-connector-j-9.x.x.jar, rename it or just update
+the classpath in build.sh/run_server.sh/run_client.sh to match its name.)
